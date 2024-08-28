@@ -1,25 +1,10 @@
-# TryHackMe Free Rooms( _they cost $0.00000_ )
+# TryHackMe Free Rooms
 
 <br/>
 
-Hey people, here's a list of **390+ Free TryHackMe rooms** to start learning hacking. I have arranged & compiled them according to different topics so that you can start hacking right now and also!
+Here's a list of **390+ Free TryHackMe rooms** to start learning hacking. I have arranged & compiled them according to different topics so that you can start hacking right now and also!
 
-All the rooms herein, are absolute free. ATTACK!!
-
-## Maintainer
-
-> **_This repository is maintained by [ winterrdog ](https://github.com/winterrdog/). For any suggestion feel free to reach out to [me.](https://t.me/winterrdog)_**
-
-## NEWS
-
-Practice, Practice and Practice...! it'll all finally fall into place. No shortcut folks :)
-
-## HOW YOU CAN SUPPORT
-
-If you genuinely feel like this project helped you a lot, you can always send your appreciation _anonymously_ to these wallets:
-
-- BTC: `17duzuYcv1QRDojfvmFVFowrKBe9EyQ1Bo`
-- USDT: `TWSv2CmzZ9Xgp8j8PwfTDZ329CXJPokpHH`
+All the rooms herein, are absolute free. ATTACK!! There is no shortcut to mastery!
 
 ## Table of Contents
 
@@ -28,7 +13,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
 | **[Introductory Rooms](#intro-rooms)**            |     **19**      |                           |
-| **[Linux Fundamentals](#linux-fundamentals)**     |      **4**      |           **5**           |
+| **[Linux Fundamentals](#linux-fundamentals)**     |      **4**      |                           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |     **13**      |                           |
 | **[Reconnaissance](#recon)**                      |     **10**      |                           |
